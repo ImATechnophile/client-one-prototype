@@ -1,5 +1,5 @@
 
-Project Name: TamsaSoft
+Project Name: ImOnPoint
 Author: Saravana Prakash
 Design: Saravana Prakash
-Owner:  TamsaSoft
+Owner:  ImOnPoint
